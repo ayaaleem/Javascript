@@ -4,7 +4,7 @@ let exclude = 40;
 
 for (let i = start; i <= 100; i += 10) {
     if (i === 40) {
-
+// aaaaaa
         continue
     }
     console.log(i)
